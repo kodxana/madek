@@ -1,0 +1,16 @@
+{
+  "name": "Madek Bot",
+  "version": "3.2.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madiator2011",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "underscore": "^1.8.3",
+    "winston": "^2.3.1"
+  }
+}
